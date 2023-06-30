@@ -1,0 +1,302 @@
+.body
+{
+   margin: 0;
+   top: 0;
+}
+.sectionone
+{
+    width:1290px;
+    height:92px;
+    background-color: #018a3f;
+    margin-left: -8px;
+    margin-top: -8px;
+    position: fixed;
+}
+.logoone
+{
+    width: 50%;
+    width: 130px;
+    height: 50px;
+    padding-left: 40px;
+    padding-top: 22px;
+}
+.listone ul li a:hover
+{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    transition: 0.2s;
+}
+.listone
+{
+    width: 45%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 290px;
+
+    margin-top: -89px;
+}
+.listone ul li
+{
+    list-style: none;
+    display: inline-block;
+    margin: 0px 120px;
+    margin-left: -91px;
+    position: relative;
+}
+.listone ul li a
+{
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 1000;
+    
+}
+.listone ul li::after
+{
+    content: '';
+    height: 3px;
+    width: 0;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    bottom: -34px;
+    left: 1px;
+   
+}
+.listone ul li:hover::after
+{
+    width: 100%;
+}
+.contact
+{
+    margin: left 21px;
+
+}
+.portiontwo
+{
+    color: aliceblue;
+    margin: auto;
+    display: flex;
+    margin-top: -63px;
+    margin-left: -14px;
+    padding-left: 946px;
+    justify-content: space-between;
+    margin-right: 73px;
+}
+
+.portiontwo i{
+    font-size: larger;
+    margin-left: 9px;
+}
+.portiontwo i:hover
+{
+    color: black;
+}
+
+.blackscreen
+{
+    height: 500px;
+    background-color: black;
+    width: 1293px;
+    margin-left:-8px;
+    padding-top: 83px;
+}
+.logotwo
+{
+    width: 650px;
+    height: 500px;
+    float: right;
+    padding-top: px;
+}
+.logothree
+{
+   background-color: rgb(0, 0, 0);
+   height: 70px;
+    width: 330px;
+    margin-top: 78px;
+    margin-left: 50px;
+}
+.celebrate
+{    width: 659px;
+    height: 180px;
+    color: aliceblue;
+    margin-left: 50px;
+    font-weight: 900;
+    font-size:64px;
+    margin-top: 12px;
+    font-family: 'Noto Sans TC', sans-serif;
+   
+    
+    font-weight: 900;
+}
+.learn button {
+    height: 45px;
+    width: 170px;
+    margin-left: 50px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: px;
+    }
+.learn button:hover
+{
+    
+    background-color: rgb(0, 0, 0);
+    color: rgb(213, 213, 231);
+    transition: 0.9s;
+}
+ button
+ {
+    background-color: rgb(245, 190, 9);
+    color: rgb(0, 0, 0);
+    border: 0px;
+    text-align: center;
+    font-weight: 900;
+   
+
+ }
+ 
+ .sectiontwo
+ {
+    width: 1291px;
+ }
+ .youtube
+ {
+    width: 35%;
+    float: left;
+    margin-left: 107px;
+    margin-top: 40px;
+ }
+ .right
+ {
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    width: 550px;
+    height: 350px;
+    float: right;
+    margin-top: 40px;
+    margin-right: 125px;
+ }.flavor
+ {
+    font-family: 'Passion One', cursive;
+   font-weight: 200;
+   font-size:75px;
+   margin-top: 9px;
+   height: px;
+
+ }
+ .inthis
+ {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    font-family: 'Passion One', cursive;
+    margin-top: -49px;
+ }
+ 
+ .shopnow button {
+    height: 40px;
+    width: 145px;
+    margin-left: 620px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   margin-top: 41px;
+    }
+.shopnow button:hover
+{
+    text-decoration: none;
+    background-color: rgb(49, 47, 47);
+    color: rgb(213, 213, 230);
+    transition: 0.9s;
+}
+.lastleft
+{
+    width: 100%;
+}
+.nowmade
+{
+    width: 55%;
+    margin-left: 100px;
+    color: #018a3f;
+    float: left;
+    line-height: 70px;
+    
+    margin-top: 60px;
+    font-family: 'Noto Sans TC', sans-serif;
+    
+    font-size:30px;
+}
+
+.bottle
+{
+    margin-top: -107px;
+}
+.sec-5{
+    background-color: #018a3f;
+    height: 422px;
+    width: 1299px;
+    margin-left: -8px;
+    margin-top: -4px;
+      
+    }.sec-5 img{
+        height: 50px;
+        width: 130px;
+        margin-left: 5.3cm;
+        margin-top: 2.7cm;
+    }.n{margin-left: 12.2cm;
+        letter-spacing: -1px;
+        margin-top: -2.5cm;
+        color: white;
+        font-weight: 900;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 15px;
+    }
+    .n1{font-size: 25px;
+        margin-top: 1cm;
+        color: white;
+         margin-left: 12cm;
+         
+    }.n1 i:hover{
+    transition: 0.7s;
+        transform: scale(1.35);
+        
+    }.products
+    {
+        margin-left: 22cm;
+        margin-top: -2.5cm;
+        color: white;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-weight: 900;
+        letter-spacing: -1px;
+        font-size: 15px;
+    }.cherry
+    {
+        margin-left:22cm ;
+        color: white;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-weight: 900;
+        letter-spacing: -1px;
+        font-size: 15px;
+        margin-right: 3cm;
+         }
+    .cherry p:hover{
+        color: black;
+    }.lst h4 {
+        color: white;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-weight: 900;
+        letter-spacing: -1px;
+        font-size: 15px;
+        margin-top: -20px;
+        margin-left: 13.5cm;
+    }.lst div h4{
+        color: white;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-weight: 900;
+        letter-spacing: -1px;
+        font-size: 15px;
+        margin-left: 8cm;
+        margin-top: 5px;
+    } .lst{
+        margin-top: 2cm;
+    } .lst div h4 a:hover{
+        color: black;
+    }
